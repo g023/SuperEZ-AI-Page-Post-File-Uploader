@@ -1,0 +1,41 @@
+.download-file {
+}
+
+.the-files {
+    display: flex;
+    flex-direction: column;
+}
+
+.the-files .file {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    display:inline-block;
+}
+
+.the-files .file.short-name {
+    width: 10rem;
+}
+
+.the-files .row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    display:inline-block;
+    border-bottom:1px solid #eee;
+}
+
+.the-files .title {
+    font-weight: bold;
+    font-size: 1.5rem;
+    border-bottom:1px solid #ccc;
+    margin-bottom: 1rem;
+    
+}
+
+.the-files div {
+    display:inline-block;
+}
+.the-files .row {
+    display:block;
+}
