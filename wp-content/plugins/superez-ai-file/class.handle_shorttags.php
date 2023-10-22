@@ -12,7 +12,7 @@ class superez_ai_handle_shorttags
 {
     public $templates = []; // main, row
 
-    public function __construct($tfile_style='template.style.css', $tfile_main='template.main.php', $tfile_row='template.row.php')
+    public function __construct($tfile_style='template.style.css', $tfile_main='template.main.html', $tfile_row='template.row.html')
     {
         $dir = __DIR__.'/_inc/';
         $this->templates['style'] = file_get_contents($dir.$tfile_style); // [style
