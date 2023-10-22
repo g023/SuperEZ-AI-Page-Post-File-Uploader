@@ -82,6 +82,7 @@ Setting a file as private will prevent it from being displayed in the short tag 
 1. Install and activate the plugin as described in the [Installation](#installation) section.
 2. Use the `[superez-ai-file]` short tag in your posts or pages to display your uploaded files.
 3. To add or remove files, edit your page or post and use the main save/update button to save changes.
+4. To edit the shortcode output templates, edit the template files in the _inc/ directory
 
 ## 5. Installation
 
