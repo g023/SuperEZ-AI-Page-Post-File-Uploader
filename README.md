@@ -105,11 +105,9 @@ To install the SuperEZ AI - Page/Post File Uploader Plugin via ZIP file:
 
 ## 6. Customization
 
-As of now, the plugin includes CSS and JavaScript directly in the PHP code. Future developments plan to move these assets into external files for better organization and maintainability.
+Edit output templates in the _inc/template.* files
 
 ## 7. Future Developments
-
-The developer has plans to further enhance this plugin by:
 
 - Adding a settings page for template customization.
 - Getting the zip file up for ez install to WP plugin directory
