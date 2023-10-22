@@ -122,4 +122,4 @@ Please refer to the [plugin's GitHub repository](https://github.com/g023/SuperEZ
 
 Feel free to contribute, report issues, or suggest improvements to make the SuperEZ AI - Page/Post File Uploader even more powerful and user-friendly.
 
- ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
