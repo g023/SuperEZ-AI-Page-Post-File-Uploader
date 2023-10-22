@@ -107,3 +107,12 @@ The developer has plans to further enhance this plugin by:
 Please refer to the [plugin's GitHub repository](https://github.com/g023/SuperEZ-AI-Page-Post-File-Uploader) for more information, updates, and support.
 
 Feel free to contribute, report issues, or suggest improvements to make the SuperEZ AI - Page/Post File Uploader even more powerful and user-friendly.
+
+ ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
+## Screenshots
+
+Here is a screenshot of the admin screen:
+
+![Screenshot](https://github.com/g023/SuperEZ-AI-Page-Post-File-Uploader/raw/main/screenshots/admin_screen.png)
+
