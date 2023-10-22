@@ -1,9 +1,13 @@
 # SuperEZ AI - Page/Post File Uploader Plugin
 
 **Plugin Name:** SuperEZ AI - Page/Post File Uploader
+
 **Description:** Allow users to upload files to pages or posts.
+
 **Version:** 0.1a
+
 **Author:** [github.com/g023](https://github.com/g023)
+
 **License:** 3-clause BSD
 
 ## Introduction
