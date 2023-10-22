@@ -8,6 +8,10 @@ Here is a screenshot of the admin screen:
 ![Screenshot](https://github.com/g023/SuperEZ-AI-Page-Post-File-Uploader/raw/main/screenshots/admin_screen.png)
 
 
+Here is a screenshot of adding the short tag to the page or post:
+
+![Screenshot](https://github.com/g023/SuperEZ-AI-Page-Post-File-Uploader/blob/main/screenshots/post_edit.png)
+
 
 **Plugin Name:** SuperEZ AI - Page/Post File Uploader
 
